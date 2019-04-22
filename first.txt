@@ -1,3 +1,8 @@
 may first doc
 hrr
+<<<<<<< HEAD
 uejsh
+=======
+heusjh
+>>>>>>> 1fadd829bf8072cd6237f41f6489bd1c5ada385c
+ｄぬえｋ
